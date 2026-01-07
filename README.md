@@ -31,6 +31,3 @@ This is my open source profile for experimenting, testing new things, and sharin
 - 🏢 [vo1d0x](https://github.com/vo1d0x)
 - 🌐 [qube.foo](https://qube.foo)
 ---
-
-**Stats:**  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=del0x)](https://github.com/del0x/github-readme-stats)
