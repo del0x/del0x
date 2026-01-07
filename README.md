@@ -26,8 +26,6 @@ My toolbox: Python, Kafka, GCP, Snowflake, dbt, Airflow, Airbyte, Kubernetes, Ba
 
 🛠️ Currently diving deep into PySpark, database internals, streaming architectures. Working towards building my own DB from scratch, for fun of course. :)
 
-This is my open source profile for experimenting, testing new things, and sharing anything interesting I find on the way.
-
 - 🏢 [vo1d0x](https://github.com/vo1d0x)
 - 🌐 [qube.foo](https://qube.foo)
 ---
