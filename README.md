@@ -33,4 +33,4 @@ This is my open source profile for experimenting, testing new things, and sharin
 ---
 
 **Stats:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=del0x1a&show_icons=true&hide=prs&count_private=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=del0x&show_icons=true&hide=prs&count_private=true&hide_title=true)
