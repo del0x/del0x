@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=del0x1a&style=flat-square)
 
-💾 **Perpetually tired** dev learning new things all the time.
 
-Just building random things in my spare time. Occassionally I'll write some blog posts about whatever interest me over at 🌐 [qube.foo](https://qube.foo)
+💾 Perpetually tired dev, always learning and experimenting.
 
-Collection of self-written libraries for practicing and implementing solutions by myself over at - 🏢 [vo1d0x](https://github.com/vo1d0x)
+I build random things in my spare time, and occasionally write blog posts about whatever catches my curiosity over at 🌐 [my blog](qube.foo).  
