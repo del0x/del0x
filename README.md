@@ -22,4 +22,7 @@ Here are some ideas to get you started:
 
 💾 Perpetually tired dev, always learning and experimenting.
 
-I build random things in my spare time, and occasionally write blog posts about whatever catches my curiosity over at 🌐 [my blog](qube.foo).  
+I build random things in my spare time, and occasionally write blog posts about whatever catches my curiosity over at [🌐](qube.foo).
+
+**Tech stack**
+
