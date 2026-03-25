@@ -24,8 +24,11 @@ Here are some ideas to get you started:
 
 I build random things in my spare time, and occasionally write blog posts about whatever catches my curiosity over at [🌐](qube.foo).
 
-## 🛠️ Toolbox
-Python | Kafka | GCP | Snowflake | dbt | Airflow | Airbyte | Kubernetes | Bash | Linux | FastAPI | SQL | MSSQL | Postgres
+🛠️ My Toolbox
+- **Languages & scripting:** Python, Rust, SQL, Bash  
+- **Data & workflows:** Airflow, dbt, Airbyte, databases (Postgres, Snowflake, MSSQL)  
+- **Cloud & infrastructure:** GCP, AWS, Kubernetes  
+- **Automation & tinkering:** Linux, scripting, personal tooling
 
 ---
 
