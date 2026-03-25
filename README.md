@@ -20,9 +20,17 @@ Here are some ideas to get you started:
 ![Profile Views](https://komarev.com/ghpvc/?username=del0x1a&style=flat-square)
 
 
-💾 Perpetually tired dev, always learning and experimenting.
+💾 Curious, perpetually tired dev, always learning and experimenting.
 
 I build random things in my spare time, and occasionally write blog posts about whatever catches my curiosity over at [🌐](qube.foo).
 
-**Tech stack**
+## 🛠️ Toolbox
+Python | Kafka | GCP | Snowflake | dbt | Airflow | Airbyte | Kubernetes | Bash | Linux | FastAPI | SQL | MSSQL | Postgres
 
+---
+
+## 🛠️ Currently Exploring
+ 🔹 Building my own static-site generator for the blog  
+ 🔹 Learning Rust  
+ 🔹 Diving into ML and MLOps  
+ 🔹 Experimenting with vLLM
