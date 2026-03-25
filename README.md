@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=del0x1a&style=flat-square)
 
-💾 **Data engineer** learning new things all the time. 
-Just building random things in my spare time. Occassionally I'll write some blog posts about whatever interest me at the given moment over at 🌐 [qube.foo](https://qube.foo)
-Collection of self-written libraries for practice over at - 🏢 [vo1d0x](https://github.com/vo1d0x)
----
+💾 **Perpetually tired** dev learning new things all the time.
+
+Just building random things in my spare time. Occassionally I'll write some blog posts about whatever interest me over at 🌐 [qube.foo](https://qube.foo)
+
+Collection of self-written libraries for practicing and implementing solutions by myself over at - 🏢 [vo1d0x](https://github.com/vo1d0x)
