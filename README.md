@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=del0x1a&style=flat-square)
 
-💾 
-
-**Grug-brained dev** learning new things. 
+💾 **Grug-brained dev** learning new things. 
 Just building random things in my spare time.  
 
 - 🏢 [vo1d0x](https://github.com/vo1d0x)
