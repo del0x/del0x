@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 I build random things in my spare time, and occasionally write blog posts about whatever catches my curiosity over at [🌐](qube.foo).
 
 🛠️ My Toolbox
-- **Languages & scripting:** Python, Rust, SQL, Bash  
+- **Languages & scripting:** Python, C, Rust, SQL, Bash  
 - **Data & workflows:** Airflow, dbt, Airbyte, databases (Postgres, Snowflake, MSSQL)  
 - **Cloud & infrastructure:** GCP, AWS, Kubernetes  
 - **Automation & tinkering:** Linux, scripting, personal tooling
