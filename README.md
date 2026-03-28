@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 💾 Curious, perpetually tired dev.
 
-I build random things in my spare time, and occasionally write blog posts about whatever catches my curiosity over at [🌐](qube.foo).
+I build random things in my spare time, and occasionally write blog posts about whatever catches my curiosity over at [🌐](https://www.qube.foo).
 
 🛠️ My Toolbox
 - **Languages & scripting:** Python, C, Rust, SQL, Bash  
