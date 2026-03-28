@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Profile Views](https://komarev.com/ghpvc/?username=del0x1a&style=flat-square)
 
 
-💾 Curious, perpetually tired dev, always learning and experimenting.
+💾 Curious, perpetually tired dev.
 
 I build random things in my spare time, and occasionally write blog posts about whatever catches my curiosity over at [🌐](qube.foo).
 
