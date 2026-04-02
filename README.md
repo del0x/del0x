@@ -21,18 +21,18 @@ Here are some ideas to get you started:
 
 
 
-I build random things in my spare time, and occasionally write blog posts about whatever catches my curiosity over at [🌐](https://www.qube.foo).
+I'm Del. I build random things in my spare time, and occasionally write blog posts about whatever catches my curiosity over at the [🧊](https://www.qube.foo).
 
-🛠️ My Toolbox
+Toolbox
+
 - **Languages & scripting:** Python, C, Rust, SQL, Bash  
 - **Data & workflows:** Airflow, dbt, Airbyte, databases (Postgres, Snowflake, MSSQL)  
 - **Cloud & infrastructure:** GCP, AWS, Kubernetes  
 - **Automation & tinkering:** Linux, scripting, personal tooling
 
----
+Exploring
 
-## 🛠️ Currently Exploring
- 🔹 Building my own static-site generator for the blog  
- 🔹 Learning Rust  
- 🔹 Diving into ML and MLOps  
- 🔹 Experimenting with vLLM
+ - Building my own static-site generator for the blog  
+ - Learning Rust  
+ - Diving into ML and MLOps  
+ - Experimenting with vLLM
