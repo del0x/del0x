@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi👋
 
-![views](https://komarev.com/ghpvc/?username=del0x1a&style=flat&color=blueviolet)
+![views](https://komarev.com/ghpvc/?username=del0x1a&style=flat&color=blueviolet&label=views)
 
 
 
