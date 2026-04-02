@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 
 # Hi👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=del0x1a&style=flat-square)
+![views](https://komarev.com/ghpvc/?username=del0x1a&style=flat&color=blueviolet)
 
 
-💾 Del 💾
 
 I build random things in my spare time, and occasionally write blog posts about whatever catches my curiosity over at [🌐](https://www.qube.foo).
 
