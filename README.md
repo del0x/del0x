@@ -15,70 +15,58 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi 👋 I'm Del
+# Hi 👋
 
 ![views](https://komarev.com/ghpvc/?username=del0x1a&style=flat&color=blueviolet&label=views)
 
----
-
-## 🧠 About
-
-I work on data systems, distributed pipelines, and LLM infrastructure in my spare time.
-
-I care about performance, systems design, and understanding how things behave under real-world load.
-
-Occasionally write on my blog at: [🧊](https://www.qube.foo)
+I'm Del. I build systems and experiment with data infrastructure, distributed pipelines, and LLM tooling in my spare time.  
+I also occasionally write about whatever I’m exploring over at [🧊](https://www.qube.foo).
 
 ---
 
-## ⚙️ Tech Stack
+## Toolbox
 
-### 🧩 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-black?style=flat&logo=rust)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash)
-
-### 📊 Data Systems
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
-![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=flat)
-
-### ☁️ Infra
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-
-### 🤖 LLM Systems
-![vLLM](https://img.shields.io/badge/vLLM-000000?style=flat)
-Performance benchmarking & inference experimentation
+- **Languages & systems:** Python, C, Rust, SQL, Bash  
+- **Data & workflows:** Spark, Airflow, dbt, Airbyte  
+- **Databases:** Postgres, Snowflake, MSSQL  
+- **Infrastructure:** GCP, AWS, Kubernetes  
+- **LLM & systems work:** vLLM, inference systems, performance experimentation  
+- **Automation & tooling:** Linux, scripting, personal dev tools
 
 ---
 
-## 📌 Focus Areas
+## Focus Areas
 
-- ⚡ High-performance data systems
-- 🧠 LLM inference & serving (vLLM)
-- 🔄 Distributed pipelines & orchestration
-- 📉 Benchmarking & profiling systems
-- 🧱 Systems programming (Rust/C)
-
----
-
-## 🔬 Currently Exploring
-
-- LLM inference optimization & throughput tuning
-- Rust for systems + data tooling
-- Benchmarking distributed workloads
-- Building a static site generator (blog tooling)
+- Data infrastructure & distributed systems
+- LLM systems and inference performance
+- Pipeline orchestration and reliability
+- Systems programming and performance engineering
+- Benchmarking and optimization of data workloads
 
 ---
 
-## 🤝 Open Source
+## Exploring
+
+- Building and iterating on LLM inference experiments (vLLM)
+- Rust for systems and data tooling
+- Performance benchmarking of distributed pipelines
+- ML systems / MLOps foundations
+- Building a static-site generator for my blog
+
+---
+
+## About me
+
+I like understanding how systems behave under load, where performance breaks, and how abstractions hold up in practice.
+
+---
+
+## Open Source
 
 I’m interested in contributing to:
 - Data infrastructure tooling
 - Distributed systems projects
-- LLM serving & inference systems
-- Performance & benchmarking tools
+- LLM inference and serving systems
+- Performance benchmarking tools
+
+---
