@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 I'm Del. I build systems and experiment with data infrastructure, distributed pipelines, and LLM tooling in my spare time.  
 I also occasionally write about whatever I’m exploring over at [🧊](https://www.qube.foo).
 
----
 
 ## Toolbox
 
@@ -33,7 +32,6 @@ I also occasionally write about whatever I’m exploring over at [🧊](https://
 - **LLM & systems work:** vLLM, inference systems, performance experimentation  
 - **Automation & tooling:** Linux, scripting, personal dev tools
 
----
 
 ## Focus Areas
 
@@ -43,7 +41,6 @@ I also occasionally write about whatever I’m exploring over at [🧊](https://
 - Systems programming and performance engineering
 - Benchmarking and optimization of data workloads
 
----
 
 ## Exploring
 
@@ -53,13 +50,11 @@ I also occasionally write about whatever I’m exploring over at [🧊](https://
 - ML systems / MLOps foundations
 - Building a static-site generator for my blog
 
----
 
 ## About me
 
 I like understanding how systems behave under load, where performance breaks, and how abstractions hold up in practice.
 
----
 
 ## Open Source
 
@@ -69,4 +64,3 @@ I’m interested in contributing to:
 - LLM inference and serving systems
 - Performance benchmarking tools
 
----
