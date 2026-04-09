@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi 👋
 
-![views](https://komarev.com/ghpvc/?username=del0x1a&style=flat&color=blueviolet&label=views)
+![views](https://komarev.com/ghpvc/?username=del0x1a&style=flat&color=grey&label=views)
 
 I'm Del. I build systems and experiment with data infrastructure, distributed pipelines, and LLM tooling in my spare time.  
 I also occasionally write about whatever I’m exploring over at [🧊](https://www.qube.foo).
