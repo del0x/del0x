@@ -26,7 +26,7 @@ I also occasionally write about whatever I’m exploring over at [🧊](https://
 ## Toolbox
 
 - **Languages & systems:** Python, C, Rust, SQL, Bash  
-- **Data & workflows:** Spark, Airflow, dbt, Airbyte  
+- **Data & workflows:** Spark, Kafka Airflow, dbt, Airbyte, FastApi, Streamlit
 - **Databases:** Postgres, Snowflake, MSSQL  
 - **Infrastructure:** GCP, AWS, Kubernetes  
 - **LLM & systems work:** vLLM, inference systems, performance experimentation  
