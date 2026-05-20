@@ -53,11 +53,6 @@ I also occasionally write about whatever I’m exploring over at [🧊]().
 - Building a static-site generator for my blog
 
 
-## About me
-
-I like understanding how systems behave under load, where performance breaks, and how abstractions hold up in practice.
-
-
 ## Open Source
 
 I’m interested in contributing to:
