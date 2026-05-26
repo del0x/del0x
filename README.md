@@ -52,12 +52,3 @@ I also occasionally write about whatever I’m exploring over at [🧊]().
 - ML systems / MLOps foundations
 - Building a static-site generator for my blog
 
-
-## Open Source
-
-I’m interested in contributing to:
-- Data infrastructure tooling
-- Distributed systems projects
-- LLM inference and serving systems
-- Performance benchmarking tools
-
