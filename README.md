@@ -27,7 +27,7 @@ I also occasionally write about whatever I’m exploring over at [🧊]().
 
 ## Toolbox
 
-- **Languages & systems:** Python, C, Rust, SQL, Bash  
+- **Languages & systems:** Python, C/C++, Javascript/Typescript, PHP, Ruby, Holy C, Rust, SQL, Bash  
 - **Data & workflows:** Spark, Kafka Airflow, dbt, Airbyte, FastApi, Streamlit
 - **Databases:** Postgres, Snowflake, MSSQL  
 - **Infrastructure:** GCP, AWS, Kubernetes  
