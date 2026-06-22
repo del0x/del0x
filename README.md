@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 [![wakatime](https://wakatime.com/badge/user/cce13a88-31b3-4e63-9f41-443db84f0790.svg?style=flat&color=grey)](https://wakatime.com/@cce13a88-31b3-4e63-9f41-443db84f0790)
 
 I'm Del. I build systems and experiment with data infrastructure, distributed pipelines, and LLM tooling in my spare time.  
+
 I also occasionally write about whatever I’m exploring over at [🧊]().
 
 
