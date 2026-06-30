@@ -24,14 +24,3 @@ Here are some ideas to get you started:
 I'm Del. I'm interested in systems programming, game dev and performance in general. Day to day I work with data engineering and also experiment with diverse tooling.  
 
 I also occasionally write about whatever I’m exploring over at [🧊]().
-
-
-## Toolbox
-
-- **Languages & systems:** Python, C/C++, Javascript/Typescript, PHP, Ruby, Holy C, Rust, SQL, Bash  
-- **Data & workflows:** Spark, Kafka Airflow, dbt, Airbyte, FastApi, Streamlit
-- **Databases:** Postgres, Snowflake, MSSQL  
-- **Infrastructure:** GCP, AWS, Kubernetes  
-- **LLM & systems work:** vLLM, inference systems, performance experimentation  
-- **Automation & tooling:** Linux, scripting, personal dev tools
-
