@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![pgp](https://img.shields.io/badge/%20pgp-0x22A7F5B1B5F28654-lightgrey?style=flat)](./del.asc)
 [![wakatime](https://wakatime.com/badge/user/cce13a88-31b3-4e63-9f41-443db84f0790.svg?style=flat&color=grey)](https://wakatime.com/@cce13a88-31b3-4e63-9f41-443db84f0790)
 
-I'm Del. I build systems and experiment with data infrastructure, distributed pipelines, and LLM tooling in my spare time.  
+I'm Del. I'm interested in systems programming, game dev and performance in general. Day to day I work with data engineering and also experiment with diverse tooling.  
 
 I also occasionally write about whatever I’m exploring over at [🧊]().
 
